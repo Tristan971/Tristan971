@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/Tristan9?style=social)](https://github.com/Tristan9)
+[![GitHub followers](https://img.shields.io/github/followers/Tristan971?style=social)](https://github.com/Tristan9)
 [![Twitter](https://img.shields.io/twitter/follow/_tde9?style=social)](https://twitter.com/_tde9)
 
 Backend and DevOps memes
